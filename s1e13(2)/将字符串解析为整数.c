@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int mian()
+{
+	char* a;
+
+	printf("«Î ‰»Î“ªæ‰”¢Œƒ£∫");
+	scanf("%s",&a);
+
+	while (a != '\n')
+	{
+		a
+	}
+
+
+
+	return 0;
+}
